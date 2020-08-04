@@ -1,0 +1,13 @@
+---
+title: "HelloWorld"
+author: "Sarthak"
+date: "8/4/2020"
+output: word_document
+---
+
+
+```{r assingment}
+print("## This is a markdown file")
+```
+
+
